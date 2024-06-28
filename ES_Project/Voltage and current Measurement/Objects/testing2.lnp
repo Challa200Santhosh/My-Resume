@@ -1,0 +1,3 @@
+".\project1\Voltage and current Measurement\Objects\testing2.obj" 
+TO ".\project1\Voltage and current Measurement\Objects\testing2" 
+PRINT(".\Listings\testing2.m51")

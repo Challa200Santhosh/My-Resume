@@ -1,0 +1,3 @@
+".\project1\Voltage and current Measurement\STARTUP.obj" 
+TO ".\project1\Voltage and current Measurement\currentmicro" 
+PRINT(".\Listings\currentmicro.m51")

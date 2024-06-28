@@ -1,0 +1,4 @@
+".\Objects\STARTUP.obj",
+".\Objects\Voltage.obj" 
+TO ".\Objects\voltage" 
+PRINT(".\Listings\voltage.m51")
