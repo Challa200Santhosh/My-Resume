@@ -8,10 +8,10 @@
     --mainBgColor-light:rgb(249, 250,251);
 
     --mainTextColor-dark:#fff;
-    --secondaryTextColor-dark:#adb0b1;
-    --mainLinkColor-dark:rgb(30, 190,214);
+    --secondaryTextColor-dark:#72797b;
+    --mainLinkColor-dark:rgb(8, 61, 70);
     --mainBorderColor-dark:#2b3031;
-    --mainBgColor-dark:#111d6f;
+    --mainBgColor-dark:#010106;
     
     --mainTextColor:var(--mainTextColor-dark);
     --secondaryTextColor:var(--secondaryTextColor-dark);
